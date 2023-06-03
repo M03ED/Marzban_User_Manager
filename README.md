@@ -29,7 +29,7 @@ python3 main.py
 1. Download Project And Extract It 
 2. Install Python +3.10
 3. Open cmd
-4. Use These Commands
+4. Run These Commands
 ```
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 python get-pip.py
