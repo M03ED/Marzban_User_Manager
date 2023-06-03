@@ -15,6 +15,8 @@
 First Enable Api In Your Marzban 
 You Can Enable It By Adding DOCS=True To Your env File
 
+## Linux
+
 ```bash
 git clone https://github.com/M03ED/Marzban_User_Manager
 cd Marzban_User_Manager
@@ -23,7 +25,22 @@ python3 -m pip install -r requirements.txt
 python3 main.py
 ```
 
-Then Run The Script And Use It
+## Windows
+1. Download Project And Extract It 
+2. Install Python +3.10
+3. Open cmd
+4. Use These Commands
+```
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python get-pip.py
+pip install -r requirements.txt
+```
+Now You Can Run Script With This Command
+```
+python main.py
+```
+
+# Additional Settings 🧩
 
 If You Dont Want Enter Your Server Information You Can Replace This Lines With Your Real Information 
 
