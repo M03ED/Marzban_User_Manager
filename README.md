@@ -1,8 +1,8 @@
 # Marzban_User_Manager
 
-<a href="./README-fa.md">
+<h2><a href="./README-fa.md">
 	فارسی
-	</a>
+	</a></h2>
 
 ## Features
 - Multiplication Remaining Traffic For All Users
